@@ -1,1 +1,1 @@
-# linearsearch
+# Linear Search Algoritması
